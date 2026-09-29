@@ -16,7 +16,7 @@
 ## 🎮 Gameplay
 
 - Scrambled letter tiles appear at the top
-- Drag each tile into the correct answer slot below
+- Tap letter tiles into the correct order
 - Tap a filled slot to return its tile to the source row
 - Hit **CHECK** when all slots are filled
 - Wrong answer? Lose a life and try again
