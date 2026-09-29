@@ -10,7 +10,7 @@
 |---|---|
 | **Splash** | Animated logo with 3s loading bar |
 | **Menu** | Play, Settings, About, Quit |
-| **Game** | Drag-and-drop letter tiles into answer slots |
+| **Game** | Select letter tiles in order |
 | **Result** | Score, rank (S→D), play again or return to menu |
 
 ## 🎮 Gameplay
