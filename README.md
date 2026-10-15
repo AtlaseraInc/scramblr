@@ -23,7 +23,7 @@
 - Use **SKIP** to jump to the next word (costs a life)
 - Earn bonus points for speed
 
-## ⚙️ Difficulty Modes
+## ⚙️ Difficulty Modes (Still in work)
 
 | Mode | Max Letters | Lives | Time Bonus |
 |---|---|---|---|
