@@ -4,7 +4,7 @@
 
 ---
 
-## 📱 Screens
+## Screens
 
 | Screen | Description |
 |---|---|
