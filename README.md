@@ -13,7 +13,7 @@
 | **Game** | Select letter tiles in order |
 | **Result** | Score, rank (S→D), play again or return to menu |
 
-## 🎮 Gameplay
+## Gameplay
 
 - Scrambled letter tiles appear at the top
 - Tap letter tiles into the correct order
