@@ -1,6 +1,6 @@
 # Scramblr
 
-> A mobile word unscramble game built with React Native — pick letter tiles in the correct order to solve each puzzle. Features a retro neon arcade aesthetic, difficulty levels, lives system, and smooth UX.
+> A mobile word unscramble game built with React Native. Pick letter tiles in the correct order to solve each puzzle. Features a retro neon arcade aesthetic, difficulty levels, a lives system, and smooth UX.
 
 ---
 
