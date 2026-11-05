@@ -75,7 +75,7 @@ npm run ios       # iOS
 
 > Requires [Expo CLI](https://docs.expo.dev/get-started/installation/) and the Expo Go app on your device.
 
-## 🎨 Design
+## Design
 
 Retro neon arcade aesthetic — dark background, vivid neon tile colors, chunky monospace typography, scanline effects, and smooth spring animations throughout.
 
