@@ -79,7 +79,7 @@ npm run ios       # iOS
 
 Retro neon arcade aesthetic — dark background, vivid neon tile colors, chunky monospace typography, scanline effects, and smooth spring animations throughout.
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **React Native** (0.74)
 - **Expo** (~51)
