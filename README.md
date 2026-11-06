@@ -31,13 +31,13 @@
 | Medium | 6 | 3 | 20s window |
 | Hard   | 9 | 2 | 40s window |
 
-## 🏆 Scoring
+## Scoring
 
 - **100 pts** per correct word
 - **+5 pts** per second remaining under the time window
 - Final rank: S / A / B / C / D
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 scramblr/
@@ -59,7 +59,7 @@ scramblr/
 └── package.json
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Install dependencies
